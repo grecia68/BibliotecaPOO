@@ -46,3 +46,6 @@ Se muestra un menú con 5 opciones:
 <img src="/capturas/Imagen1.png"><br>
 <img src="/capturas/Imagen2.png">
 
+### Planner
+
+<img src="/capturas/Planner.png">
