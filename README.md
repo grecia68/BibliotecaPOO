@@ -43,5 +43,6 @@ Se muestra un menú con 5 opciones:
 > Usuario con métodos prestarRecurso(), devolverRecurso(), y mostrarRecursosPrestados().
 
 ### Capturas
-<img src="">
+<img src="/capturas/Imagen1.png"><br>
+<img src="/capturas/Imagen2.png">
 
